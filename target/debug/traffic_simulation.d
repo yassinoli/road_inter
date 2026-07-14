@@ -1,0 +1,1 @@
+/home/yelhamdi/traffic_simulation/target/debug/traffic_simulation: /home/yelhamdi/traffic_simulation/src/main.rs /home/yelhamdi/traffic_simulation/src/rendering.rs /home/yelhamdi/traffic_simulation/src/simulation.rs
